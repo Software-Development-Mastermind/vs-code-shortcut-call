@@ -17,17 +17,25 @@ Goal: Open up a file called `database.py`
 </div>
 
 ## Challenge #3
-Goal: Open up a file called `Expenses.js` and rename 4 instances of `expenze` to `expense`
+Goal: Open up a file called `Expenses.js` and rename 4 instances of `expenze` to `expense`, then close the tab
 
 <div style="align-text: center">
   <img src="images/challenge-3.png">
 </div>
 
 ## Challenge #4
-Goal: Open up a file called `Expenses.js`
+Goal: Open up a file called `index.html`, open up a file called `script.js`, split the `script.js` file to the right side of the screen.
+ 
+Steps:
+ 1. Open a file called `index.html`
+ 2. Open a file called `script.js`
+ 3. Split the `script.js` file to the right side of the screen
+ 4. Bring the cursor focus to the `index.html` file
+ 5. Add a `<script>` tag to import `script.js`
 
+Final result:
 <div style="align-text: center">
-  <img src="">
+  <img src="images/challenge-4.png">
 </div>
 
 ## Challenge #5
