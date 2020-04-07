@@ -77,14 +77,14 @@ Goal: Open up a file called `database.py`
 <hr>
 
 ## Challenge #7
-Goal: Open up a file called `server.js` and rename `pathz` to `path`
+Goal: Navigate File, Comment out stuff
 
 <div style="align-text: center">
   <img src="">
 </div>
 
 ## Challenge #8
-Goal: Open up a file called `database.py`
+Goal: Find symbol in a long file and modify
 
 <div style="align-text: center">
   <img src="">
