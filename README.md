@@ -17,7 +17,7 @@ Steps:
 <hr>
 
 ## Challenge #2
-Goal: Open up a file called `database.py`
+Goal: Open a file, format it properly and comment out a line of code
 
 <div style="align-text: center">
   <img src="images/challenge-2.png">
