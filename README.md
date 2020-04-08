@@ -123,8 +123,10 @@ _Goal: Find symbol in a long file and modify_
 
 Steps:
  1. Close all existing files on in Visual Studio Code 
- 2. 
- 3. 
+ 2. Open file called `really-long-file.js`
+ 3. Move cursor to `honkHorn` function
+ 4. Remove the code inside the function
+ 5. Add the following code inside the function: `console.log('honk honk!')`
  4. Create a new commit by running `git add --all` by `git commit -m "new commit"`
  5. Close terminal window
 

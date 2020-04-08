@@ -39,5 +39,5 @@ function writeToConsole(text) {
 }
 
 function honkHorn() {
-  // honk honk!
+  console.log('honk honk!')
 }
