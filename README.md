@@ -137,22 +137,6 @@ Steps:
 <hr>
 
 ## Challenge #9
-_Goal: Open up a file called `server.js` and rename `pathz` to `path`_
-
-Steps:
- 1. Close all existing files on in Visual Studio Code 
- 2.   
- 3. 
- 4. 
- 5. 
-
-<div style="align-text: center">
-  <img src="images/challenge-9.png">
-</div>
-<br>
-<hr>
-
-## Challenge #10
 _Goal: Change certain strings to named constants_
 
 Steps:
