@@ -96,10 +96,19 @@ Goal: Open up a file called `server.js` and rename `pathz` to `path`
 <div style="align-text: center">
   <img src="">
 </div>
+<br>
+<hr>
 
 ## Challenge #10
-Goal: Open up a file called `database.py`
+Goal: Change certain strings to named constants
+
+Steps:
+ 1. Open a file called 'snake.js'
+ 2. Change all instances of the stirng `'up'` to `DIRECTION_UP`
+ 2. Change all instances of the stirng `'down'` to `DIRECTION_DOWN`
+ 2. Change all instances of the stirng `'left'` to `DIRECTION_LEFT`
+ 2. Change all instances of the stirng `'right'` to `DIRECTION_RIGHT`
 
 <div style="align-text: center">
-  <img src="">
+  <img src="images/challenge-10.png">
 </div>
