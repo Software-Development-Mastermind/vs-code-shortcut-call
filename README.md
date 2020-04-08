@@ -119,7 +119,7 @@ Steps:
 <hr>
 
 ## Challenge #8
-_Goal: Find symbol in a long file and modify_
+_Goal: Find symbol in a long file and modify. Then make a new commit in Git_
 
 Steps:
  1. Close all existing files on in Visual Studio Code 
