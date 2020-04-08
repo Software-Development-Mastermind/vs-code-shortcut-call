@@ -3,10 +3,15 @@
 # NOTE: For all these challenges DO NOT USE your mouse
 
 ## Challenge #1
-Goal: Open up a file called `server.js` and rename `pathz` to `path`
+_Goal: Open up a file called `server.js` and rename `pathz` to `path`_
+
+Steps:
+ 1. Open a file called `server.js`
+ 2. Rename all occurences of `pathz` to `path`
+ 3. Rename all occurences of `expressDPZ` to `express`
 
 <div style="align-text: center">
-  <img src="">
+  <img src="images/challenge-1.png">
 </div>
 <br>
 <hr>
@@ -15,7 +20,7 @@ Goal: Open up a file called `server.js` and rename `pathz` to `path`
 Goal: Open up a file called `database.py`
 
 <div style="align-text: center">
-  <img src="">
+  <img src="images/challenge-2.png">
 </div>
 <br>
 <hr>
@@ -71,7 +76,7 @@ Final result:
 Goal: Open up a file called `database.py`
 
 <div style="align-text: center">
-  <img src="">
+  <img src="images/challenge-6.png">
 </div>
 <br>
 <hr>
@@ -80,34 +85,38 @@ Goal: Open up a file called `database.py`
 Goal: Navigate File, Comment out stuff
 
 <div style="align-text: center">
-  <img src="">
+  <img src="images/challenge-7.png">
 </div>
+<br>
+<hr>
 
 ## Challenge #8
 Goal: Find symbol in a long file and modify
 
 <div style="align-text: center">
-  <img src="">
+  <img src="images/challenge-8.png">
 </div>
+<br>
+<hr>
 
 ## Challenge #9
-Goal: Open up a file called `server.js` and rename `pathz` to `path`
+_Goal: Open up a file called `server.js` and rename `pathz` to `path`_
 
 <div style="align-text: center">
-  <img src="">
+  <img src="images/challenge-9.png">
 </div>
 <br>
 <hr>
 
 ## Challenge #10
-Goal: Change certain strings to named constants
+_Goal: Change certain strings to named constants_
 
 Steps:
  1. Open a file called 'snake.js'
  2. Change all instances of the stirng `'up'` to `DIRECTION_UP`
- 2. Change all instances of the stirng `'down'` to `DIRECTION_DOWN`
- 2. Change all instances of the stirng `'left'` to `DIRECTION_LEFT`
- 2. Change all instances of the stirng `'right'` to `DIRECTION_RIGHT`
+ 3. Change all instances of the stirng `'down'` to `DIRECTION_DOWN`
+ 4. Change all instances of the stirng `'left'` to `DIRECTION_LEFT`
+ 5. Change all instances of the stirng `'right'` to `DIRECTION_RIGHT`
 
 <div style="align-text: center">
   <img src="images/challenge-10.png">
