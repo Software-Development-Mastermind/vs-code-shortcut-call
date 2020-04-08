@@ -82,14 +82,14 @@ Final result:
 
 ## Challenge #6 
 
-_Goal: Change certain strings to named constants_
+_Goal: Update a Javascript class_
 
 Steps:
  1. Close all existing files on in Visual Studio Code 
- 2. 
- 3. 
- 4. 
- 5. 
+ 2. Open a file called `car.js`
+ 3. Remove lines 4, 5 and 6 from the `constructor`
+ 4. Move cursor to the `selfDestruct` function
+ 5. Remove the entire `selfDestruct` function
 
 <div style="align-text: center">
   <img src="images/challenge-6.png">
@@ -98,14 +98,19 @@ Steps:
 <hr>
 
 ## Challenge #7
-_Goal: Navigate File, Comment out stuff_
+_Goal: Update an HTML and Javascript file_
 
 Steps:
  1. Close all existing files on in Visual Studio Code 
- 2. 
- 3. 
- 4.  
- 5. 
+ 2. Open a file called `store.html`
+ 3. After the `<h2>` on line 10, create a `<div>` that contains an `<ol>` that contains three `<li>` elements.
+ 4. Inside of each `<li>` element put a shoe company name in: `Nike`, `Adidas`, `<Puma>`
+ 5. Open a file called `store.js`
+ 6. Split the `store.js` file to the right
+ 7. Put focus in HTML file
+ 8. Give each `<li>` item a unique `id` attribute (use each company name as the `id`)
+ 9. Put focus on Javascript file
+ 10. Add a click event listener to each `<li>` element
 
 <div style="align-text: center">
   <img src="images/challenge-7.png">
