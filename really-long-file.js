@@ -27,17 +27,17 @@ function recursive() {
 }
 
 function process(thing) {
-    // process a thing
+  // process a thing
 }
 
 function processFile(file) {
-    process(file);
+  process(file);
 }
 
 function writeToConsole(text) {
-    console.log(text);
+  console.log(text);
 }
 
 function honkHorn() {
-    // honk  honk!
+  // honk honk!
 }
