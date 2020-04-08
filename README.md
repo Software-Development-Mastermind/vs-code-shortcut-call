@@ -6,9 +6,10 @@
 _Goal: Open up a file called `server.js` and rename `pathz` to `path`_
 
 Steps:
- 1. Open a file called `server.js`
- 2. Rename all occurences of `pathz` to `path`
- 3. Rename all occurences of `expressDPZ` to `express`
+ 1. Close all existing files on in Visual Studio Code
+ 2. Open a file called `server.js`
+ 3. Rename all occurences of `pathz` to `path`
+ 4. Rename all occurences of `expressDPZ` to `express`
 
 <div style="align-text: center">
   <img src="images/challenge-1.png">
@@ -19,6 +20,11 @@ Steps:
 ## Challenge #2
 Goal: Open a file, format it properly and comment out a line of code
 
+Steps:
+ 1. Close all existing files on in Visual Studio Code
+ 2. Open a file called `database.py`
+ 3. Format the code in the `create_connection` function so the lines are properly indented
+ 4. Comment out this single line of code: `test=os.environ['testing']`
 <div style="align-text: center">
   <img src="images/challenge-2.png">
 </div>
