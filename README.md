@@ -134,7 +134,7 @@ _Goal: Open up a file called `server.js` and rename `pathz` to `path`_
 
 Steps:
  1. Close all existing files on in Visual Studio Code 
- 2.  
+ 2.   
  3. 
  4. 
  5. 
