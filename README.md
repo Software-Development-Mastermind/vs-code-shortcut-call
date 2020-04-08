@@ -44,6 +44,7 @@ _Goal: Open up a file called `Expenses.js` and rename 4 instances of `expenze` t
 _Goal: View an HTML and Javascript file side-by-side. Add a script tag to the HTML file._
  
 Steps:
+ 1. Close all existing files on in Visual Studio Code 
  1. Open a file called `index.html`
  2. Open a file called `script.js`
  3. Split the `script.js` file to the right side of the screen
@@ -61,6 +62,7 @@ Final result:
 _Goal: Create an HTML table_
 
 Steps:
+ 1. Close all existing files on in Visual Studio Code 
  1. Open a file called `table.html`
  2. Create a blank line at line 12
  3. Create a `<table>` element
@@ -79,7 +81,15 @@ Final result:
 <hr>
 
 ## Challenge #6 
-Goal: Open up a file called `database.py`
+
+_Goal: Change certain strings to named constants_
+
+Steps:
+ 1. Close all existing files on in Visual Studio Code 
+ 2. 
+ 3. 
+ 4. 
+ 5. 
 
 <div style="align-text: center">
   <img src="images/challenge-6.png">
@@ -88,7 +98,14 @@ Goal: Open up a file called `database.py`
 <hr>
 
 ## Challenge #7
-Goal: Navigate File, Comment out stuff
+_Goal: Navigate File, Comment out stuff_
+
+Steps:
+ 1. Close all existing files on in Visual Studio Code 
+ 2. 
+ 3. 
+ 4.  
+ 5. 
 
 <div style="align-text: center">
   <img src="images/challenge-7.png">
@@ -97,7 +114,14 @@ Goal: Navigate File, Comment out stuff
 <hr>
 
 ## Challenge #8
-Goal: Find symbol in a long file and modify
+_Goal: Find symbol in a long file and modify_
+
+Steps:
+ 1. Close all existing files on in Visual Studio Code 
+ 2. 
+ 3. 
+ 4. Create a new commit by running `git add --all` by `git commit -m "new commit"`
+ 5. Close terminal window
 
 <div style="align-text: center">
   <img src="images/challenge-8.png">
@@ -107,6 +131,13 @@ Goal: Find symbol in a long file and modify
 
 ## Challenge #9
 _Goal: Open up a file called `server.js` and rename `pathz` to `path`_
+
+Steps:
+ 1. Close all existing files on in Visual Studio Code 
+ 2.  
+ 3. 
+ 4. 
+ 5. 
 
 <div style="align-text: center">
   <img src="images/challenge-9.png">
@@ -118,6 +149,7 @@ _Goal: Open up a file called `server.js` and rename `pathz` to `path`_
 _Goal: Change certain strings to named constants_
 
 Steps:
+ 1. Close all existing files on in Visual Studio Code 
  1. Open a file called 'snake.js'
  2. Change all instances of the stirng `'up'` to `DIRECTION_UP`
  3. Change all instances of the stirng `'down'` to `DIRECTION_DOWN`
