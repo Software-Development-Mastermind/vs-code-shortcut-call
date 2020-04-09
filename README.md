@@ -148,5 +148,5 @@ Steps:
  5. Change all instances of the stirng `'right'` to `DIRECTION_RIGHT`
 
 <div style="align-text: center">
-  <img src="images/challenge-10.png">
+  <img src="images/challenge-9.png">
 </div>
